@@ -14,9 +14,9 @@
 I'm a software developer who values clarity, structure, and real-world impact.  
 I enjoy turning ideas into functioning, thoughtful solutions — one commit at a time.
 
-- 🎨 Interested in clean architecture & purposeful UI
-- 🧩 Love solving problems & learning new approaches
-- 🤝 Open to collaborations and meaningful projects
+- Interested in clean architecture & purposeful UI
+- Love solving problems & learning new approaches
+- Open to collaborations and meaningful projects
 
 ---
 
@@ -43,30 +43,14 @@ I enjoy turning ideas into functioning, thoughtful solutions — one commit at a
 
 ### 🌍 Connect With Me
 
-<p align="left">
-
-<a href="mailto:abdulalif2003@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="20" /> 
-</a> &nbsp; **abdulalif2003@gmail.com**
-<br>
-
-<a href="https://instagram.com/abdalif_">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="20" />
-</a> &nbsp; **@abdalif_**
-<br>
-
-<a href="https://www.linkedin.com/in/abdul-alif-bin-abdul-rahim-103974368">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20" />
-</a> &nbsp; **linkedin.com/in/abdulalif03**
-<br>
-
-</p>
+**Email:** abdulalif2003@gmail.com  
+**Instagram:** https://instagram.com/abdalif_  
+**LinkedIn:** https://www.linkedin.com/in/abdul-alif-bin-abdul-rahim-103974368  
 
 ---
 
 ### ✨ Personal Motto
-
-> *“Care about the craft — every line of code says something about you.”*
+> “Care about the craft — every line of code says something about you.”
 
 ---
 
