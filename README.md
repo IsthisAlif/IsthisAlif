@@ -41,6 +41,7 @@ I enjoy turning ideas into functioning, thoughtful solutions — one commit at a
 
 ---
 
+<!--
 ### 🌍 Connect With Me
 
 <a href="mailto:abdulalif2003@gmail.com">
@@ -57,6 +58,7 @@ I enjoy turning ideas into functioning, thoughtful solutions — one commit at a
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20" />
 </a> &nbsp; linkedin.com/in/abdulalif03  
 <br>
+-->
 
 ---
 
