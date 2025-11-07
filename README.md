@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 I'm a software developer who values clarity, structure, and real-world impact.  
-I enjoy turning ideas into functioning, thoughtful solutions — one commit at a time.
+I enjoy turning ideas into functioning, thoughtful solutions, one commit at a time.
 
 - Interested in clean architecture & purposeful UI  
 - Love solving problems & learning new approaches  
