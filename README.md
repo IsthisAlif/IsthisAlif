@@ -1,3 +1,9 @@
+**abdulalif2003@gmail.com**  
+**instagram.com/abdalif_**  
+**linkedin.com/in/abdulalif03**
+
+<br>
+
 <!-- Intro -->
 <h1 align="center">👋 Hi, I'm Alif</h1>
 
