@@ -43,17 +43,17 @@
 <p align="left">
   <a href="mailto:abdulalif2003@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="22" /> 
-  </a> &nbsp; **abdulalif2003@gmail.com**  
+  </a> &nbsp; abdulalif2003@gmail.com
   <br>
 
   <a href="https://www.instagram.com/abdalif_/tagged/?hl=en">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="22" />
-  </a> &nbsp; **abdalif_**
+  </a> &nbsp; abdalif_
   <br>
 
   <a href="www.linkedin.com/in/abdul-alif-bin-abdul-rahim-103974368">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="22" />
-  </a> &nbsp; **linkedin.com/in/abdulalif03**
+  </a> &nbsp; linkedin.com/in/abdulalif03
   <br>
 
 ---
