@@ -1,3 +1,8 @@
+**abdulalif2003@gmail.com**  
+**instagram.com/abdalif_**  
+**linkedin.com/in/abdulalif03**
+
+<br>
 
 <!-- Intro -->
 <h1 align="center">👋 Hi, I'm Alif</h1>
@@ -44,9 +49,20 @@ I enjoy turning ideas into functioning, thoughtful solutions — one commit at a
 
 ### 🌍 Connect With Me
 
-**Email:** abdulalif2003@gmail.com  
-**Instagram:** https://instagram.com/abdalif_  
-**LinkedIn:** https://www.linkedin.com/in/abdul-alif-bin-abdul-rahim-103974368  
+<a href="mailto:abdulalif2003@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="14" /> 
+</a> &nbsp; **abdulalif2003@gmail.com**
+<br>
+
+<a href="https://instagram.com/abdalif_">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="14" />
+</a> &nbsp; **@abdalif_**
+<br>
+
+<a href="https://www.linkedin.com/in/abdul-alif-bin-abdul-rahim-103974368">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="14" />
+</a> &nbsp; **linkedin.com/in/abdulalif03**
+<br>  
 
 ---
 
