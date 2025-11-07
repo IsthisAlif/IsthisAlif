@@ -61,7 +61,7 @@ I enjoy turning ideas into functioning, thoughtful solutions — one commit at a
 
 <a href="https://www.linkedin.com/in/abdul-alif-bin-abdul-rahim-103974368">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20" />
-</a> linkedin.com/in/abdulalif03
+</a> &nbsp; linkedin.com/in/abdulalif03
 <br>  
 
 ---
