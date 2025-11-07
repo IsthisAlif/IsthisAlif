@@ -22,7 +22,6 @@
   <img src="https://skillicons.dev/icons?i=js,py,cpp,cs,html,css,nodejs,react,unity,git,github,vscode&perline=6" />
 </p>
 
-> (*This includes the languages you listed — JavaScript, Python, C++, C# — plus tools found in your repos.*)
 
 ---
 
@@ -42,25 +41,20 @@
 ### 🌍 Connect With Me
 
 <p align="left">
-  <a href="mailto:actuallyarmand@gmail.com">
+  <a href="mailto:abdulalif2003@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="22" /> 
-  </a> &nbsp; **actuallyarmand@gmail.com**  
+  </a> &nbsp; **abdulalif2003@gmail.com**  
   <br>
 
-  <a href="https://instagram.com/armandsurbakti">
+  <a href="https://www.instagram.com/abdalif_/tagged/?hl=en">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="22" />
-  </a> &nbsp; **armandsurbakti**
+  </a> &nbsp; **abdalif_**
   <br>
 
-  <a href="https://www.linkedin.com/in/armandfs">
+  <a href="www.linkedin.com/in/abdul-alif-bin-abdul-rahim-103974368">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="22" />
-  </a> &nbsp; **linkedin.com/in/armandfs**
+  </a> &nbsp; **linkedin.com/in/abdulalif03**
   <br>
-
-  <a href="https://x.com/armandmeister1">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="22" />
-  </a> &nbsp; **@armandmeister1**
-</p>
 
 ---
 
