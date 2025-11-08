@@ -54,9 +54,9 @@ I enjoy turning ideas into functioning, thoughtful solutions, one commit at a ti
 </a> &nbsp; @abdalif_  
 <br>
 
-<a href="https://www.linkedin.com/in/abdul-alif-bin-abdul-rahim-103974368">
+<a href="www.linkedin.com/in/abdalif">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20" />
-</a> &nbsp; linkedin.com/in/abdulalif03  
+</a> &nbsp; linkedin.com/in/abdalif  
 <br>
 -->
 
