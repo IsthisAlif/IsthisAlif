@@ -61,7 +61,7 @@ I enjoy turning ideas into functioning, thoughtful solutions, one commit at a ti
 -->
 
 ### ✨ Personal Motto
-> “Care about the craft — every line of code says something about you.”
+> “Care about the craft.”
 
 ---
 
