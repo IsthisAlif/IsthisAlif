@@ -60,9 +60,4 @@ I enjoy turning ideas into functioning, thoughtful solutions, one commit at a ti
 <br>
 -->
 
-### ✨ Personal Motto
-> “Care about the craft.”
-
----
-
 <p align="center">Thank you for visiting 🤍</p>
